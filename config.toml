@@ -29,7 +29,7 @@ publishDir = "docs"
   [languages.en]
     title = "Waring.io"
     subtitle = "Intune and Microsoft 365 information"
-    keywords = ""
+    keywords = "Intune,Microsoft365,Endpoint Manager,Infrastructure"
     copyright = ""
     menuMore = "Show more"
     writtenBy = "Written by"

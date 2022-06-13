@@ -1,4 +1,4 @@
-baseURL = 'https://jonny05.github.io/waringio/'
+baseURL = 'https://waring.io'
 languageCode = 'en-us'
 title = 'Waring.io'
 theme = "hello-friend"

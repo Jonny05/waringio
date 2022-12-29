@@ -15,11 +15,11 @@
     
     
     <item>
-      <title>My Test Post</title>
-      <link>https://waring.io/posts/my-test-post/</link>
+      <title>Deploying a Win32 App via Intune</title>
+      <link>https://waring.io/posts/deploying-a-win32-app-via-intune/</link>
       <pubDate>Thu, 29 Dec 2022 15:28:33 +0000</pubDate>
       
-      <guid>https://waring.io/posts/my-test-post/</guid>
+      <guid>https://waring.io/posts/deploying-a-win32-app-via-intune/</guid>
       <description>
         
           
@@ -28,7 +28,12 @@
         
         
         
-          
+          Pre Reqs#Download the IntuneWin32Util from Here.
+Download the 7-Zip MSI from Here
+Create a Folder for your App
+Copy your 7zip MSI to the folder you just created (This is to keep the copy for record)
+Create a folder on your computer to store the MSI in while we convert it, this is to avoid packing un needed files into the intune installer eg:
+Navigate to where you downloaded the Intune App tool and double click on it to run it.
           
         
         </description>

@@ -1,5 +1,5 @@
 ---
-title: "Deploying a Win32 App via Intune"
+title: "Packaging a Win32 App For Intune"
 date: 2022-12-29T15:28:33Z
 ---
 

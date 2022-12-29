@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://waring.io/posts/deploying-a-win32-app-via-intune/</loc>
+    <loc>https://waring.io/posts/packaging-a-win32-app-for-intune/</loc>
     <lastmod>2022-12-29T15:28:33+00:00</lastmod>
   </url><url>
     <loc>https://waring.io/posts/</loc>

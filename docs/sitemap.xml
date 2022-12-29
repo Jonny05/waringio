@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://waring.io/posts/my-test-post/</loc>
+    <lastmod>2022-12-29T15:28:33+00:00</lastmod>
+  </url><url>
+    <loc>https://waring.io/posts/</loc>
+    <lastmod>2022-12-29T15:28:33+00:00</lastmod>
+  </url><url>
+    <loc>https://waring.io/</loc>
+    <lastmod>2022-12-29T15:28:33+00:00</lastmod>
+  </url><url>
+    <loc>https://waring.io/categories/</loc>
+  </url><url>
+    <loc>https://waring.io/tags/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Waring.io</title>
+    
+    
+    
+    <link>https://waring.io/</link>
+    <description>Recent content on Waring.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2022 15:28:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://waring.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Test Post</title>
+      <link>https://waring.io/posts/my-test-post/</link>
+      <pubDate>Thu, 29 Dec 2022 15:28:33 +0000</pubDate>
+      
+      <guid>https://waring.io/posts/my-test-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
